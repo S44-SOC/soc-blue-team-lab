@@ -1,1 +1,1 @@
-# SOC-blue-team-lab
+# SOC-Blue-Team-Lab
